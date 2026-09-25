@@ -2,6 +2,8 @@
 
 An AI-powered energy planning assistant that helps households understand and reduce their energy waste. Built as part of the 1M1B – IBM SkillsBuild AI for Sustainability Virtual Internship.
 
+🔗 **Live Demo:** [Try the app here](https://smartgreenhomeplanner-jngwb2fkrbrqny3hsgzbgv.streamlit.app)
+
 ## Problem Statement
 How might we use AI to help households understand and reduce their energy waste so that home energy use becomes more sustainable?
 
